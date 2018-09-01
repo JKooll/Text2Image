@@ -1,0 +1,4 @@
+/* pages/text2image/text2image.wxss */
+page {
+    background-color: #F8F8F8;
+}
