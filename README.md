@@ -1,2 +1,3 @@
-# mp-text2image
-【微信小程序】text2image
+# Text2Image
+Text2Image 微信小程序
+
